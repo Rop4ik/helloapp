@@ -5,6 +5,8 @@ class Program
     static void Main()
     {
         Console.WriteLine("hello everyone");
+        GreetWhite();
+        GreetBlack();
     }
 
     public static void GreetWhite()
